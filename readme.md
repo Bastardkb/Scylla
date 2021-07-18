@@ -40,8 +40,8 @@ If you want RGB, you will also need:
 
 ## Print the case
 
-The STL and STEP files are included in this Github.
-Feel free to modify them at length. The files are on a non-commercial license, so this is for personal projects only - please do not use those to sell them.
+The STL files are included in this Github.
+Feel free to use and modify them at length. The files are on a non-commercial license, so this is for personal projects only - please do not use those to sell them.
 
 Please find detailed instructions on how to print the case here:
 https://docs.bastardkb.com/hc/en-us/articles/360020031180-Print-settings-for-Dactyls
