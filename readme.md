@@ -31,7 +31,7 @@ If you want RGB, you will also need:
 
 | Part name          | Amount | Link       |
 | ------------------ | ------ | ---------- |
-| SK6812 Mini-E LEDs | 42     | Aliexpress |
+| SK6812 Mini-E LEDs | 58     | Aliexpress |
 
 ## Print the case
 
