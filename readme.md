@@ -10,8 +10,6 @@ A modern low-profile ergonomic split keyboard, with a number row and a feature-f
 
 You will need to order the parts from a shop, and order some PCBs directly from the manufacturer.
 
-The Elite-C Adapters are open-source. At this moment, the flexible PCBs are not. Instead, you can use Amoebas.
-
 Parts list:
 
 | Part name                         | Amount | Link                                                                                    |
