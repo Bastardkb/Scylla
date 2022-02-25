@@ -12,17 +12,17 @@ You will need to order the parts from a shop, and order some PCBs directly from 
 
 Parts list:
 
-| Part name                         | Amount | Link                                                                                    |
-| --------------------------------- | ------ | --------------------------------------------------------------------------------------- |
-| Flexible PCB for the plate   | 2     | https://github.com/Bastardkb/PCB_plate_DM                                                        |
-| Flexible PCB for the thumbs   | 2     | https://github.com/Bastardkb/PCB_Thumbs_DM                                                      |
-| Elite-C                           | 2      |                                                                                         |
-| Elite-C adapter PCB V1.4          | 2      | https://github.com/Bastardkb/Elite-C-holder                                             |
-| SOD123 Diodes                     | 58     |                                                                                         |
-| Cables                            |        | 28 AWG recommended                                                                      |
-| M4 8mm Torx Screw                 | 16     | Conrad                                                                                  |
-| M4 screw insert, M4 X D6.0 X L5.0 | 16     | https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v |
-| Audio jack, SMD                   | 2      |                                                                                         |
+| Part name                         | Amount | Link                                                                                       |
+| --------------------------------- | ------ | ------------------------------------------------------------------------------------------ |
+| Flexible PCB for the plate        | 2      | https://github.com/Bastardkb/Scylla-PCB-Plate                                              |
+| Flexible PCB for the thumbs       | 2      | https://github.com/Bastardkb/Scylla-PCB-thumb-cluster                                      |
+| Elite-C                           | 2      |                                                                                            |
+| Elite-C adapter PCB V1.4          | 2      | https://github.com/Bastardkb/Elite-C-holder                                                |
+| SOD123 Diodes                     | 58     |                                                                                            |
+| Cables                            |        | 28 AWG recommended                                                                         |
+| M4 8mm Torx Screw                 | 16     | Conrad                                                                                     |
+| M4 screw insert, M4 X D6.0 X L5.0 | 16     | https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v    |
+| Audio jack, SMD                   | 2      |                                                                                            |
 | Button, 4x4x1.5                   | 2      | https://www.aliexpress.com/item/1005001304569553.html?spm=a2g0s.9042311.0.0.27424c4dDwgcp7 |
 
 If you don't want to source the Elite-C adapter PCB, you can use the [printable shield adapter from Geoff](https://github.com/geoffder/dometyl-keyboard/blob/main/things/holders/bastardkb/printable_shield.stl).
