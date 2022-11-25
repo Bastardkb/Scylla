@@ -57,7 +57,7 @@ If you want to print the case yourself, you can also get just the electronics Ki
 # Build guide
 
 Please find detailed build instructions here:
-https://docs.bastardkb.com/hc/en-us/articles/360020028360-Kit-contents-and-required-tools
+https://docs.bastardkb.com/hc/en-us/articles/4415744748306-Kit-contents-and-required-tools
 
 # Finding help
 
