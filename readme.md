@@ -47,6 +47,10 @@ Feel free to use and modify them at length. The files are on a non-commercial li
 Please find detailed instructions on how to print the case here:
 https://docs.bastardkb.com/hc/en-us/articles/360020031180-Print-settings-for-Dactyls
 
+### Tent mount plate
+This option allows the keyboard to be mounted to standard camera gear tripods and mounts.  
+A 1/4 - 20 UNC 7.6 mm deep heat insert is needed.  
+
 ## Get a kit from BastardKB
 
 You can get a full Kit, including case and all PCBs and electronics required on the shop:
