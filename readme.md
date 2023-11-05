@@ -44,8 +44,7 @@ If you want RGB, you will also need:
 The STL files are included in this Github.
 Feel free to use and modify them at length. The files are on a non-commercial license, so this is for personal projects only - please do not use those to sell them.
 
-Please find detailed instructions on how to print the case here:
-https://docs.bastardkb.com/hc/en-us/articles/360020031180-Print-settings-for-Dactyls
+Please find detailed instructions on how to print the case on the online instructions linked below.
 
 ## Get a kit from BastardKB
 
@@ -56,10 +55,9 @@ If you want to print the case yourself, you can also get just the electronics Ki
 
 # Build guide
 
-Please find detailed build instructions here:
-https://docs.bastardkb.com/hc/en-us/articles/4415744748306-Kit-contents-and-required-tools
+You can find detailed instruction on the online documentation linked below.
 
-# Finding help
+# Links
 
 - Discord: https://bastardkb.com/discord
 - Website: https://bastardkb.com/
