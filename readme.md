@@ -18,7 +18,8 @@ Parts list:
 | Flexible PCB for the thumbs       | 2      | https://github.com/Bastardkb/Scylla-PCB-thumb-cluster                                      |
 | Elite-C                           | 2      |                                                                                            |
 | Elite-C adapter PCB V1.4          | 2      | https://github.com/Bastardkb/Elite-C-holder                                                |
-| SOD123 Diodes                     | 58     |                                                                                            |
+| SOD123 Diodes                     | 10     |                                                                                            |
+| BAT54C Diodes                     | 24     |                                                                                            |
 | Cables                            |        | 28 AWG recommended                                                                         |
 | M4 8mm Torx Screw                 | 16     | Conrad                                                                                     |
 | M4 screw insert, M4 X D6.0 X L5.0 | 16     | https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v    |
@@ -44,8 +45,7 @@ If you want RGB, you will also need:
 The STL files are included in this Github.
 Feel free to use and modify them at length. The files are on a non-commercial license, so this is for personal projects only - please do not use those to sell them.
 
-Please find detailed instructions on how to print the case here:
-https://docs.bastardkb.com/hc/en-us/articles/360020031180-Print-settings-for-Dactyls
+Please find detailed instructions on how to print the case on the online instructions linked below.
 
 ### Tent mount plate
 This option allows the keyboard to be mounted to standard camera gear tripods and mounts.  
@@ -60,10 +60,9 @@ If you want to print the case yourself, you can also get just the electronics Ki
 
 # Build guide
 
-Please find detailed build instructions here:
-https://docs.bastardkb.com/hc/en-us/articles/4415744748306-Kit-contents-and-required-tools
+You can find detailed instruction on the online documentation linked below.
 
-# Finding help
+# Links
 
 - Discord: https://bastardkb.com/discord
 - Website: https://bastardkb.com/
