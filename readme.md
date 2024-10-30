@@ -4,7 +4,7 @@ A modern low-profile ergonomic split keyboard, with a number row and a feature-f
 
 ![](pics/1.jpg)
 
-# Sourcing the components
+# Required components
 
 ## Electronic components
 
