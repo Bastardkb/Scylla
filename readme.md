@@ -16,8 +16,7 @@ Parts list:
 | --------------------------------- | ------ | ------------------------------------------------------------------------------------------ |
 | Flexible PCB for the plate        | 2      | https://github.com/Bastardkb/Scylla-PCB-Plate                                              |
 | Flexible PCB for the thumbs       | 2      | https://github.com/Bastardkb/Scylla-PCB-thumb-cluster                                      |
-| Elite-C                           | 2      |                                                                                            |
-| Elite-C adapter PCB V1.4          | 2      | https://github.com/Bastardkb/Elite-C-holder                                                |
+| Splinktegrated                    | 2      | https://github.com/bastardkb/splinktegrated                                                |
 | SOD123 Diodes                     | 10     |                                                                                            |
 | BAT54C Diodes                     | 24     |                                                                                            |
 | Cables                            |        | 28 AWG recommended                                                                         |
