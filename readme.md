@@ -16,7 +16,7 @@ Parts list:
 | --------------------------------- | ------ | ------------------------------------------------------------------------------------------ |
 | Flexible PCB for the plate        | 2      | https://github.com/Bastardkb/Scylla-PCB-Plate                                              |
 | Flexible PCB for the thumbs       | 2      | https://github.com/Bastardkb/Scylla-PCB-thumb-cluster                                      |
-| Splinktegrated                    | 2      | https://github.com/bastardkb/splinktegrated                                                |
+| Splinktegrated*                    | 2      | https://github.com/bastardkb/splinktegrated                                                |
 | SOD123 Diodes                     | 10     |                                                                                            |
 | BAT54C Diodes                     | 24     |                                                                                            |
 | Cables                            |        | 28 AWG recommended                                                                         |
@@ -25,7 +25,7 @@ Parts list:
 | Audio jack, SMD                   | 2      |                                                                                            |
 | Button, 4x4x1.5                   | 2      | https://www.aliexpress.com/item/1005001304569553.html?spm=a2g0s.9042311.0.0.27424c4dDwgcp7 |
 
-If you don't want to source the Elite-C adapter PCB, you can use the [printable shield adapter](https://github.com/Bastardkb/Skeletyl/blob/main/mods/pro%20micro%20mount%20plate/pro%20micro%20mount%20plate%20v2.stl).
+*Alternatively, you can use the [Elite-C holder](https://github.com/Bastardkb/Elite-C-holder) with the [splinky](https://github.com/bastardkb/splinky) or any other [compatible board](https://docs.bastardkb.com/hw/rp2040-community.html). 
 
 If you don't want to source the flexible PCBs, you can also use either amoebas or handwire.
 
